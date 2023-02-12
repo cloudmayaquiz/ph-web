@@ -11,22 +11,27 @@ body {
     font-size: 50px;
     color: aliceblue;
 }
-
 .header-second {
     color: aliceblue;
     font-weight: 300;
     font-size: 42px;
 }
-
 .header-subheader {
     color: gray;
     font-size: 21px;
 }
-
 
 /* Links */
 
 .link-cta {
     font-size: 16px;
     color: aquamarine;
+}
+
+/* Footer */
+
+.copyright {
+    font-size: 10px;
+    color: gray;
+    text-align: right;
 }
